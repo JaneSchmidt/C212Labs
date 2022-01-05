@@ -1,0 +1,3 @@
+The difference between mouse pressing and clicking is a press is when the mouse is clicked and held while a click is a click and release.
+
+Since interfaces are used to achieve abstraction we could use an interface to replicate multiple inheritance which is not allowed in Java.
