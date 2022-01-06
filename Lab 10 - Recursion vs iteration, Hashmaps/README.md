@@ -1,0 +1,1 @@
+In the first part of lab 10 we used both iterative and recursive methods to determine whether an input was a palindrome. Next we learned how to use hashmaps by creating a method that takes a file of bank transaction history as input and returns the clients and their balances.
