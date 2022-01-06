@@ -1,0 +1,1 @@
+In lab 9 we created a csv file reader and editor that adds and deletes name from the students.txt file in Resources. Also we created simple exercises that contained errors and handled those errors with exception handling. 
